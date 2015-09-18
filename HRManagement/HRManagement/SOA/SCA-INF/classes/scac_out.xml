@@ -1,0 +1,133 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Faults>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/InitiateLeaveRequest.task</file>
+      <name>HumanTasks/InitiateLeaveRequest.task</name>
+      <fix/>
+      <msg>Task title not specified</msg>
+   </Fault>
+   <Fault>
+      <severity>warning</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>HumanTasks/InitiateLeaveRequest.task</file>
+      <name>HumanTasks/InitiateLeaveRequest.task</name>
+      <fix/>
+      <msg>Error assignee not specified</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>Node 'Team Leader Review' has no implementation defined</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>Node 'Project Manager Review' has no implementation defined</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>Node 'HR Review' has no implementation defined</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>Node 'Send Notification By Email' has no implementation defined</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (Is Team Leader Review Required? To Team Leader Review) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (TL Outcome To Is Project Manager Review Required) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (Is Project Manager Review Required To Project Manager Review) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (PM Outcome To HR Review) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (TL Outcome To Initiate Leave Approval Request) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (PM Outcome To Team Leader Review) is empty.</msg>
+   </Fault>
+   <Fault>
+      <severity>error</severity>
+      <loc/>
+      <line/>
+      <col/>
+      <file>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</file>
+      <name>C:\JDeveloper\HRManagement\HRManagement\SOA\processes\LeaveApproval.bpmn</name>
+      <fix/>
+      <msg>The condition in Sequence Flow (PM Outcome To Initiate Leave Approval Request) is empty.</msg>
+   </Fault>
+</Faults>

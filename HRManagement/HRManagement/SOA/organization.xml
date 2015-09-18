@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns1:organization xmlns:ns2="http://xmlns.oracle.com/bpm/identity" xmlns:ns1="http://xmlns.oracle.com/bpm/organization" xmlns:ns4="http://xmlns.oracle.com/bpel/workflow/task" xmlns:ns3="http://xmlns.oracle.com/bpel/workflow/taskQuery" xmlns:ns0="http://xmlns.oracle.com/bpm/lpg/peopleQuery">
+   <ns1:updateExistingObjects>false</ns1:updateExistingObjects>
+   <ns1:organizationalUnits/>
+   <ns1:applicationRoles>
+      <ns1:applicationRole id="HRManagement.ProcessOwner" isProcessRole="true">
+         <ns2:name>HRManagement.Process Owner</ns2:name>
+         <ns1:processRole id="ProcessOwner" name="Process Owner"/>
+      </ns1:applicationRole>
+      <ns1:applicationRole id="HRManagement.ProcessReviewer" isProcessRole="true">
+         <ns2:name>HRManagement.Process Reviewer</ns2:name>
+         <ns1:processRole id="ProcessReviewer" name="Process Reviewer"/>
+      </ns1:applicationRole>
+      <ns1:applicationRole id="HRManagement.TeamLeader" isProcessRole="true">
+         <ns2:name>HRManagement.Team Leader</ns2:name>
+         <ns1:processRole id="TeamLeader" name="Team Leader"/>
+      </ns1:applicationRole>
+      <ns1:applicationRole id="HRManagement.ProjectManager" isProcessRole="true">
+         <ns2:name>HRManagement.Project Manager</ns2:name>
+         <ns1:processRole id="ProjectManager" name="Project Manager"/>
+      </ns1:applicationRole>
+      <ns1:applicationRole id="HRManagement.HR" isProcessRole="true">
+         <ns2:name>HRManagement.HR</ns2:name>
+         <ns1:processRole id="HR" name="HR"/>
+      </ns1:applicationRole>
+   </ns1:applicationRoles>
+   <ns1:applicationRoleOrgUnitCalendarAssociations/>
+   <ns1:participantPropertiesList/>
+   <ns1:holidayRules/>
+   <ns1:calendarRules/>
+   <ns1:businessParameters/>
+</ns1:organization>
