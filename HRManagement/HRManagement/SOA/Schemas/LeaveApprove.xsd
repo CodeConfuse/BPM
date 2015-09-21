@@ -7,6 +7,7 @@
     <xsd:sequence>
       <xsd:element ref="Person" minOccurs="0"/>
       <xsd:element name="EmpID" type="xsd:string" minOccurs="0"/>
+      <xsd:element name="EmpType" type="xsd:string" minOccurs="0"/>      
       <xsd:element name="Adress" type="AddressType" minOccurs="0"/>
       <xsd:element name="phone" type="PhoneType" minOccurs="0"/>
       <xsd:element ref="LeaveRecord" minOccurs="0"/>
